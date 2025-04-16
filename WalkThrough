@@ -28,12 +28,17 @@ rm filename.filetype
 
 
 Pac-Man ghosts
-Blinky --> Pictures Folder
-Clyde --> python_games folder
+
 Spooky --> Documents Folder
+Funky --> Documents Folder
+
+
+Blinky --> Pictures Folder
+Clyde --> python_games Folder
+
 Pinky --> Desktop Folder
 Inky --> Templates Folder
-Funky --> Documents	Folder
+
 Sue --> Music Folder
 
 
